@@ -1,5 +1,5 @@
-# SMB1-Any-Visual-Auto-Splitter
-An executable that runs during Super Mario Bros. Any% speedruns and uses brightness and other factors from the signal to sense level transitions and send keys presses for LiveSplit. This is specifically to avoid needing to manually split when playing on console.
+# SMB1-Speedrun-Visual-Auto-Splitter
+An executable that runs during Super Mario Bros. Any% speedruns and uses brightness and other factors from the signal to sense level transitions and send keys presses for LiveSplit. This is specifically to avoid needing to manually split when playing on console. It additionally is supposed to reset the splits when the console is reset, but this is finicky currectly.
 
 Run either version during speedrunning, but smbdbg.exe is best for seeing extra information. Edit the .cfg file to change which keys are pressed.
 
